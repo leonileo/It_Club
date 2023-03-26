@@ -174,8 +174,8 @@ body{
     justify-content: center;
     /* flex-wrap: wrap; */
 }
-.service .sbox {
-    background-color: violet;
+.service .sbox {    
+    border: 1px solid #fff;
     padding: 5px;
     margin: 10px;
     border-radius: 10px;
